@@ -1,6 +1,8 @@
 # 4dmGTFO
 simple gtfo bins searching in the terminal
 
+![image](https://github.com/aslam4dm/4dmGTFO/assets/35896884/0559ce67-f3c4-4373-9208-b1922f94908f)
+
 ## install
 ```
 git clone https://github.com/aslam4dm/4dmGTFO.git
